@@ -1,2 +1,3 @@
 # deep-reinforcement-learning-
-MVIG mission 2
+##MVIG training section 2
+This repository contains my report for SJTU MVIG training section II and corresponding codes.
