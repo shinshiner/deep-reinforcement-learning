@@ -1,4 +1,4 @@
-# deep-reinforcement-learning-
+# Deep Reinforcement Learning
 
 ## MVIG training section 2
 
