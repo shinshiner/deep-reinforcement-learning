@@ -18,14 +18,14 @@ The most codes are forked from https://github.com/search?utf8=%E2%9C%93&q=deep+r
 
 I only use these command to train my models (Open terminal in the root directory of this repository).
 
-  Train with DQN model with gpu:
+  #### Train with DQN model with gpu:
 
     $ python main.py --network_header_type=nature --env_name=Breakout-v0
 
-  Train with Double DQN model:
+  #### Train with Double DQN model:
   
     $ python main.py --double_q=True --env_name=Breakout-v0
     
-  Train with Deuling network with Double Q-learning:
+  #### Train with Deuling network with Double Q-learning:
   
     $ python main.py --double_q=True --network_output_type=dueling --env_name=Breakout-v0
